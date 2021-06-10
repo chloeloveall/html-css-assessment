@@ -51,10 +51,12 @@ Deployed on [Vercel](https://vercel.com)
 ## Core Web Vitals Tests
 
 ### Mobile 
-![tablet screenshot](assets/images/screenshots/web-vital-mobile.png)
+![mobile web vital screenshot](assets/images/screenshots/web-vital-mobile.png)
 
 ### Tablet
-![tablet screenshot](assets/images/screenshots/web-vital-tablet.png)
+**Project needs higher quality images for desktop version. SVG images could also be used instead**  
+
+![desktop web vital screenshot](assets/images/screenshots/web-vital-desktop.png)
 
 ## Setup and Installation Requirements
 
