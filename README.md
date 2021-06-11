@@ -53,7 +53,7 @@ Deployed on [Vercel](https://vercel.com)
 ### Mobile 
 ![mobile web vital screenshot](assets/images/screenshots/web-vital-mobile.png)
 
-### Tablet
+### Desktop
 **Project needs higher quality images for desktop version. SVG images could also be used instead**  
 
 ![desktop web vital screenshot](assets/images/screenshots/web-vital-desktop.png)
